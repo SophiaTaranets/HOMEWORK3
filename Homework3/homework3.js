@@ -1,4 +1,5 @@
 // ****************** Task 1 ******************
+
 console.log("Task 1");
 let arrNewTask = [2,3,4,5];
 dFor = 1;
@@ -20,8 +21,10 @@ while(i < arrNewTask.length) {
     i++;
 }
 console.log(dWhile);
-console.log("\n")
+console.log("\n");
+
 // ****************** Task 2 ******************
+
 console.log("Task 2");
 for (let i = 0;i<16;i++){
     if (i%2==0){
@@ -31,7 +34,8 @@ for (let i = 0;i<16;i++){
         console.log(i," is odd");
     }
 }
-console.log("\n")
+console.log("\n");
+
 // ****************** Task 3 ******************
 
 function getRandomNumber(min,max){
